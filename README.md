@@ -4,7 +4,7 @@
 
 ## 2.GÜN 1.ÖDEV
 
-![Markdown](https://grafxflow.co.uk/storage/app/uploads/public/5ad/e5b/d9b/thumb_891_266_0_0_0_auto.png)
+
 
 
 ## Markdown Öğrenelim
