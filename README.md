@@ -2,7 +2,7 @@
 
 [2.GÜN](https://github.com/cceydae/JavaReactSoftwareDeveloperCamp/tree/main/oopIntroDayTwoWorkOne/src/oopIntroDayTwoWorkOne)
 
-## 2.GÜN 1.ÖDEV (OOP Intro)
+### 2.GÜN 1.ÖDEV (OOP Intro)
 [HomeWork](https://github.com/cceydae/JavaReactSoftwareDeveloperCamp/tree/main/oopIntroDayTwoWorkOne/src/oopIntroDayTwoWorkOne)
 
 - Kodlama.io sitesine gidiniz.
