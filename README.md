@@ -1,7 +1,5 @@
 # Yazılım Geliştirici Yetiştirme Kampı (JAVA + REACT) - Engin Demirog
 
-[2.GÜN](https://github.com/cceydae/JavaReactSoftwareDeveloperCamp/tree/main/oopIntroDayTwoWorkOne/src/oopIntroDayTwoWorkOne)
-
 ### 2.GÜN 1.ÖDEV (OOP Intro)
 [HomeWork](https://github.com/cceydae/JavaReactSoftwareDeveloperCamp/tree/main/oopIntroDayTwoWorkOne/src/oopIntroDayTwoWorkOne)
 
