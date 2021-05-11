@@ -2,6 +2,8 @@
 
 ![**2.GÜN 1.ÖDEV**](https://github.com/cceydae/JavaReactSoftwareDeveloperCamp/tree/main/oopIntroDayTwoWorkOne/src/oopIntroDayTwoWorkOne)
 
+## 2.GÜN 1.ÖDEV
+
 - Kodlama.io sitesine gidiniz.
 
 - Özellik nesnesi olarak tanımladığımızı düşündüğünüz iki örnek veriniz.
