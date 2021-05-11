@@ -1,1 +1,1 @@
-#Yazılım Geliştirici Yetiştirme Kampı (JAVA + REACT) - Engin Demirog
+Yazılım Geliştirici Yetiştirme Kampı (JAVA + REACT) - Engin Demirog
