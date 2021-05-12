@@ -2,7 +2,6 @@
 
 ### 2.GÜN 1.ÖDEV (OOP)
 [HomeWork](https://github.com/cceydae/JavaReactSoftwareDeveloperCamp/tree/main/oopIntroDayTwoWorkOne/src/oopIntroDayTwoWorkOne)
-
 - Kodlama.io sitesine gidiniz.
 - Özellik nesnesi olarak tanımladığımızı düşündüğünüz iki örnek veriniz.
 - Bunlara ait class, contructor yapılarını oluşturup diziye ekleyip listeleyiniz.
