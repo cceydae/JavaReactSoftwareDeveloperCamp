@@ -37,7 +37,7 @@
 
 ### 6.GÜN 2.ÖDEV (Kurumsal Mimaride Spring Boot)
 [HomeWork]
-- Veri tabanı modellemesi **HRMS
+- Veri tabanı modellemesi **HRMS**
 ### 6.GÜN 3.ÖDEV (Kurumsal Mimaride Spring Boot)
 [HomeWork]
 - Spring Boot ile hrms isimli projenizi oluşturunuz.
