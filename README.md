@@ -13,7 +13,7 @@
 - Kural -- Sadece gördüğümüz konulardan yararlanmalısınız.
 
 ### [4.GÜN 2.ÖDEV (OOP Soyutlama2)]
-- https://youtu.be/6VYDltTF2b4 bu yayın C# ile yapıldı.,aynı yapıyı Java için kurunuz.
+- C# ile yapılan yapıyı Java için kurunuz.
 
 ### [4.GÜN 3.ÖDEV (OOP Soyutlama2)]
 - Bir oyun yazmak istiyorsunuz. Bu yazılım için backend kodlarını JAVA ile geliştirmeyi planlıyoruz. Yeni üye, satış ve kampanya yönetimi yapılması isteniyor. Nesnelere ait özellikleri istediğiniz gibi verebilirsiniz. Burada amaç yazdığınız kodun kalitesidir. 
