@@ -10,7 +10,6 @@
 - Kodlama.io projesini yazdığınızı düşünelim.
 - User, Instructor, Student nesnelerini modelleyiniz. (Class-Inheritance)
 - UserManager, InstructorManager, StudentManager için sistemde olabilecek operasyonları tahminleyip modelleyiniz. (Class-Inheritance-Method)
-- Kural -- Sadece gördüğümüz konulardan yararlanmalısınız.
 
 ### [4.GÜN 2.ÖDEV (OOP Soyutlama2)]
 - C# ile yapılan yapıyı Java için kurunuz.
@@ -31,7 +30,7 @@
 
 ### [6.GÜN 2.ÖDEV (Kurumsal Mimaride Spring Boot)]
 - Veri tabanı modellemesi **HRMS**
-- 
+
 ### [6.GÜN 3.ÖDEV (Kurumsal Mimaride Spring Boot)]
 - Spring Boot ile hrms isimli projenizi oluşturunuz.
 - Katmanları yazınız.
