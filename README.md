@@ -6,7 +6,7 @@
 - Bunlara ait class, contructor yapılarını oluşturup diziye ekleyip listeleyiniz.
 - İş sınıfı olarak tanımladığımızı düşündüğünüz bir class oluşturunuz. En az iki metot yazınız.
 
-### [3.GÜN 2.ÖDEV (OOP Soyutlama)]
+### [3.GÜN 2.ÖDEV (OOP Soyutlama)](https://github.com/cceydae/JavaReactSoftwareDeveloperCamp/tree/main/day3/src/day3)
 - Kodlama.io projesini yazdığınızı düşünelim.
 - User, Instructor, Student nesnelerini modelleyiniz. (Class-Inheritance)
 - UserManager, InstructorManager, StudentManager için sistemde olabilecek operasyonları tahminleyip modelleyiniz. (Class-Inheritance-Method)
