@@ -11,7 +11,7 @@
 - User, Instructor, Student nesnelerini modelleyiniz. (Class-Inheritance)
 - UserManager, InstructorManager, StudentManager için sistemde olabilecek operasyonları tahminleyip modelleyiniz. (Class-Inheritance-Method)
 
-### [4.GÜN 2.ÖDEV (OOP Soyutlama2)]
+### [4.GÜN 2.ÖDEV (OOP Soyutlama2)](https://github.com/cceydae/JavaReactSoftwareDeveloperCamp/tree/main/day42/src)
 - Starbucks ve Nero için müşteri yönetimi yapan bir sistem 
 - Starbucks ve Nero müşterilerini veri tabanına kaydetmek istiyor 
 - Starbucks ek olarak mernis doğrulaması istiyor, müşteriler için her kahve alımında yıldız kazandırmak istiyor.
