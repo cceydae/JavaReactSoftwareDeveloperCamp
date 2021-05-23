@@ -1,6 +1,6 @@
 # Yazılım Geliştirici Yetiştirme Kampı (JAVA + REACT) - Engin Demirog
 
-### [2.GÜN 1.ÖDEV (OOP)](https://github.com/cceydae/JavaReactSoftwareDeveloperCamp/tree/main/oopIntroDayTwoWorkOne/src/oopIntroDayTwoWorkOne)
+### [2.GÜN 1.ÖDEV (OOP)](https://github.com/cceydae/JavaReactSoftwareDeveloperCamp/tree/main/day2/src/day2)
 - Kodlama.io sitesine gidiniz.
 - Özellik nesnesi olarak tanımladığımızı düşündüğünüz iki örnek veriniz.
 - Bunlara ait class, contructor yapılarını oluşturup diziye ekleyip listeleyiniz.
@@ -12,7 +12,9 @@
 - UserManager, InstructorManager, StudentManager için sistemde olabilecek operasyonları tahminleyip modelleyiniz. (Class-Inheritance-Method)
 
 ### [4.GÜN 2.ÖDEV (OOP Soyutlama2)]
-- C# ile yapılan yapıyı Java için kurunuz.
+- Starbucks ve Nero için müşteri yönetimi yapan bir sistem 
+- Starbucks ve Nero müşterilerini veri tabanına kaydetmek istiyor 
+- Starbucks ek olarak mernis doğrulaması istiyor, müşteriler için her kahve alımında yıldız kazandırmak istiyor.
 
 ### [4.GÜN 3.ÖDEV (OOP Soyutlama2)]
 - Bir oyun yazmak istiyorsunuz. Bu yazılım için backend kodlarını JAVA ile geliştirmeyi planlıyoruz. Yeni üye, satış ve kampanya yönetimi yapılması isteniyor. Nesnelere ait özellikleri istediğiniz gibi verebilirsiniz. Burada amaç yazdığınız kodun kalitesidir. 
