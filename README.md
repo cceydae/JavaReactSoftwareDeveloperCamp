@@ -23,7 +23,7 @@
 - Sisteme yeni kampanya girişi, kampanyanın silinmesi ve güncellenmesi imkanlarını simule ediniz.
 - Satışlarda kampanya entegrasyonunu simule ediniz.
    
-### [5.GÜN 1.ÖDEV (Kurumsal Mimariler)]
+### [5.GÜN 1.ÖDEV (Kurumsal Mimariler)](https://github.com/cceydae/JavaReactSoftwareDeveloperCamp/tree/main/day5/src/day5)
 1. Kullanıcılar sisteme bilgilerini girerek üye olabilmelidir.
 2. Kullanıcılar sisteme Google hesapları ile üye olabilmelidir. (Simulasyon)
 3. Kullanıcılar e-posta ve parola bilgisiyle sisteme giriş yapabilmelidir.
