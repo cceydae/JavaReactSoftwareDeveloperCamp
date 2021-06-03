@@ -29,12 +29,3 @@
 3. Kullanıcılar e-posta ve parola bilgisiyle sisteme giriş yapabilmelidir.
 4. Bu isterleri katmanlı mimaride simüle ediniz.
 - Bu sisteme ait Java backend yazmak istiyoruz.
-
-### [6.GÜN 2.ÖDEV (Kurumsal Mimaride Spring Boot)]
-- Veri tabanı modellemesi **HRMS**
-
-### [6.GÜN 3.ÖDEV (Kurumsal Mimaride Spring Boot)]
-- Spring Boot ile hrms isimli projenizi oluşturunuz.
-- Katmanları yazınız.
-- Sistemde bulunan genel iş pozisyonlarını listeleyecek api'yi yazınız.
-
